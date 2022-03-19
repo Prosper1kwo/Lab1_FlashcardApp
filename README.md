@@ -5,7 +5,7 @@ Flashcard app lets users create their own flashcard.
 
 ### App Walk-though
 
-<img src="https://recordit.co/6EdwGPBLqa" width=200><br>
+<img src="http://g.recordit.co/6EdwGPBLqa.gif" width=200><br>
 
 
 ## Required
