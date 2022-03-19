@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    tools:context=".AddCardActivity">
+
+    <EditText
+        android:id="@+id/flashcard_question_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="28dp"
+        android:hint="Enter A Question here"/>
+
+
+    <EditText
+        android:id="@+id/flashcard_answer_editText"
+        android:layout_width="385dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="138dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="28dp"
+        android:hint="Enter The Answer Here" />
+
+    <ImageView
+        android:id="@+id/flashcard_cancel_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cancel"
+        android:text="Text aligned bottom right"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        />
+
+
+    <ImageView
+        android:id="@+id/flashcard_save_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/save"
+        android:text="Text aligned bottom right"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        />
+
+</RelativeLayout>
