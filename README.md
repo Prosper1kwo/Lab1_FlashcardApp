@@ -5,7 +5,7 @@ The FlashCard App contains animations and transitions
 
 ### App Walk-though
 
-<img src="C:\Users\a\Documents\GitHub\Lab1_FlashcardApp\labgif.gif" width=200><br>
+<img src="labgif.gif" width=200><br>
 
 
 ## Required
